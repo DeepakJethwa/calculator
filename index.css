@@ -1,5 +1,6 @@
 .row{
-    margin: 5px;
+    margin: 6px;
+
 }
 .row input{
     border-radius: 40px;
@@ -29,5 +30,10 @@ background-position: center;
 flex-direction: column;
 align-items: center;
 }
-
+.button{
+    font-size: 15px;
+    font-style: italic;
+    color: blanchedalmond;
+    background-color: brown;
+}
 
